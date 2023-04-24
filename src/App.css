@@ -47,6 +47,13 @@ font-size: 30px;
   justify-content: space-between;
 }
 
+.borderViolet {
+  border-color: violet;
+}
+.borderGreen {
+  border-color: green;
+}
+
 .footer {
   background-color: #dddddd;
   height: 20vh;

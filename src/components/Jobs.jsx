@@ -11,14 +11,14 @@ const Jobs = (props) => {
         city="Sydney"
       ></Job>
       <Job
-        className="job"
+        className="job borderViolet"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job"
+        className="job borderGreen"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
