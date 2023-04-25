@@ -4,63 +4,63 @@ const Jobs = (props) => {
   return (
     <div className={props.className}>
       <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job borderViolet"
+        className="violet"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job borderGreen"
+        className="green"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
       <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
             <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
             <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"
         city="Sydney"
       ></Job>
             <Job
-        className="job"
+        className="red"
         title="Full Time Sales Associate - Sydney Boutique"
         contractType="CDI"
         country="Australie"

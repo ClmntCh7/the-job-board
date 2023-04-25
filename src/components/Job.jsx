@@ -2,7 +2,7 @@ const Job = (props) => {
 const {className, title, contractType, country, city } = props;
 
     return (
-        <div className={className} >
+        <div className={`job ${className}`} >
             <h2>{title}</h2>
             <p>{contractType} - {city} - {country}</p>
         </div>
